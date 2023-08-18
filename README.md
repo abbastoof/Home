@@ -4,7 +4,7 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 
 ## 🌐 Networking Background
 - Worked as a **Network Engineer for 7+ years**.
-- Possess a **CCNA Certificate**.
+- Possess a ![CCNA](https://img.shields.io/badge/-CCNA-5896AB?style=flat-square&logo=Cisco&logoColor=white) **CCNA Certificate**.
 
 ## 🎓 Education
 - **Hive Helsinki**: Engaged in a challenging software engineering curriculum rooted in hands-on experience.
@@ -23,5 +23,5 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
   
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abbastoof/) or drop me an email at [abbas.toof@gmail.com](mailto:abbas.toof@gmail.com).
+Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abbastoof/) or drop me an email at [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:abbas.toof@gmail.com).
 
