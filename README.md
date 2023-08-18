@@ -1,4 +1,9 @@
 # Hello there! 👋
+<table><tr><td bgcolor="color_code">
+
+Content you want to display on the colored background.
+
+</td></tr></table>
 
 My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Engineer with over 7 years of hands-on experience. Currently, I'm diving deep into the world of coding at [Hive Helsinki](https://www.hive.fi/), a proud branch of the renowned [42 coding school](https://www.42.fr/).
 
