@@ -11,15 +11,15 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 
 ## 💡 Skills & Expertise
 - **Languages**: 
-  - ![Python](link-to-python-icon) Python
-  - ![C](link-to-c-icon) C
-  - ![C++](link-to-c++-icon) C++
-  - ![Bash](link-to-bash-icon) Bash
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) Python
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black) C
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) C++
+  - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white) Bash
   
 - **Technologies & Tools**: 
-  - ![Unix](link-to-unix-icon) Unix
-  - ![Vim](link-to-vim-icon) Vim
-  - ![Linux](link-to-linux-icon) Linux
+  - ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white) Unix
+  - ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white) Vim
+  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black) Linux
   
 ---
 
