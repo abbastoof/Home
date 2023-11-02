@@ -11,15 +11,15 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 
 ## 💡 Skills & Expertise
 - **Languages**: 
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) Python
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black) C
-  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) C++
-  - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white) Bash
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+  - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
   
 - **Technologies & Tools**: 
-  - ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white) Unix
-  - ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white) Vim
-  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black) Linux
+  - ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white)
+  - ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)
+  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
   
 ---
 
