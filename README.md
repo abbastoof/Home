@@ -36,10 +36,8 @@ Certainly! Here's the updated list with SolarWinds and PRTG included:
 - ![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=flat-square&logo=Hyper-V&logoColor=white)
 
 **Text Editors:**
-- ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=white)
-- ![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=Atom&logoColor=white)
 - ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)
-
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 **Operating Systems:**
 - ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white)
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
