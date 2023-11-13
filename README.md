@@ -18,6 +18,7 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
   - ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white)
   - ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbastoof)](https://github.com/anuraghazra/github-readme-stats)
 ---
