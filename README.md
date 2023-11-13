@@ -38,6 +38,7 @@ Certainly! Here's the updated list with SolarWinds and PRTG included:
 **Text Editors:**
 - ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+
 **Operating Systems:**
 - ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white)
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
