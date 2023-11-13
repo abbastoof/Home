@@ -7,7 +7,6 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 - Possess a [![CCNA](https://img.shields.io/badge/-CCNA-5896AB?style=flat-square&logo=Cisco&logoColor=white)](https://www.credly.com/badges/18f3d14f-acb1-4f94-9e8a-a65e4fa2af17?source=linked_in_profile) **CCNA Certificate**.
 ## 🎓 Education
 - **Hive Helsinki**: Engaged in a challenging software engineering curriculum rooted in hands-on experience.
-
 ## 💡 Skills & Expertise
 - **Languages**: 
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -19,8 +18,8 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
   - ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white)
   - ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-  [![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbastoof)](https://github.com/anuraghazra/github-readme-stats)
 ---
+[![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=abbastoof)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abbastoof/) or drop me an email at [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:abbas.toof@gmail.com).
 
