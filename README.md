@@ -34,7 +34,6 @@ Certainly! Here's the updated list with SolarWinds and PRTG included:
 **Virtualization:**
 - ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=VMware&logoColor=white)
 - ![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=flat-square&logo=Hyper-V&logoColor=white)
-- ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=Windows&logoColor=white)
 
 **Text Editors:**
 - ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=white)
@@ -44,7 +43,7 @@ Certainly! Here's the updated list with SolarWinds and PRTG included:
 **Operating Systems:**
 - ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white)
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+- ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbastoof)](https://github.com/anuraghazra/github-readme-stats)
 ---
