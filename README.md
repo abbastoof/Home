@@ -8,17 +8,43 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 ## 🎓 Education
 - **Hive Helsinki**: Engaged in a challenging software engineering curriculum rooted in hands-on experience.
 ## 💡 Skills & Expertise
-- **Languages**: 
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
-  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-  - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
-  
-- **Technologies & Tools**: 
-  - ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white)
-  - ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)
-  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+Certainly! Here's the updated list with SolarWinds and PRTG included:
+
+**Programming Languages:**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)
+
+**Network Analysis and Monitoring:**
+- ![Wireshark](https://img.shields.io/badge/-Wireshark-green?style=flat-square&logo=Wireshark&logoColor=white)
+- ![SolarWinds](https://img.shields.io/badge/-SolarWinds-167C80?style=flat-square&logo=SolarWinds&logoColor=white)
+- ![PRTG](https://img.shields.io/badge/-PRTG-344D91?style=flat-square&logo=PRTG&logoColor=white)
+
+**Version Control:**
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
+**Containerization and Orchestration:**
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+
+**API Development and Testing:**
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+
+**Virtualization:**
+- ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=VMware&logoColor=white)
+- ![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=flat-square&logo=Hyper-V&logoColor=white)
+- ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=Windows&logoColor=white)
+
+**Text Editors:**
+- ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=white)
+- ![Atom](https://img.shields.io/badge/-Atom-66595C?style=flat-square&logo=Atom&logoColor=white)
+- ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)
+
+**Operating Systems:**
+- ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbastoof)](https://github.com/anuraghazra/github-readme-stats)
 ---
