@@ -1,8 +1,6 @@
 # Hello there! 👋
 
 My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Engineer with over 7 years of hands-on experience. Currently, I'm diving deep into the world of coding at [Hive Helsinki](https://www.hive.fi/), a proud branch of the renowned [42 coding school](https://www.42.fr/).
-
----
 ## 🌐 Networking Background
 - Worked as a **Network Engineer for 7+ years**.
 - Possess a [![CCNA](https://img.shields.io/badge/-CCNA-5896AB?style=flat-square&logo=Cisco&logoColor=white)](https://www.credly.com/badges/18f3d14f-acb1-4f94-9e8a-a65e4fa2af17?source=linked_in_profile) **CCNA Certificate**.
