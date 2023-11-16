@@ -8,8 +8,6 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 ## 🎓 Education
 - **Hive Helsinki**: Engaged in a challenging software engineering curriculum rooted in hands-on experience.
 ## 💡 Skills & Expertise
-Certainly! Here's the updated list with SolarWinds and PRTG included:
-
 **Programming Languages:**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
