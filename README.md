@@ -41,7 +41,7 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 - ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ---
-[![Codewars Badge](https://www.codewars.com/users/abbastoof/badges/large)](https://www.codewars.com/users/abbastoof)
+[![Codewars Badge](https://www.codewars.com/users/abbastoof/badges/micro)](https://www.codewars.com/users/abbastoof)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbastoof)](https://github.com/anuraghazra/github-readme-stats)
 ---
