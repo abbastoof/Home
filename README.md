@@ -7,40 +7,52 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 ## 🎓 Education
 - **Hive Helsinki**: Engaged in a challenging software engineering curriculum rooted in hands-on experience.
 ## 💡 Skills & Expertise
-**Programming Languages:**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Programming and IT Tools</title>
+</head>
+<body>
 
-**Network Analysis and Monitoring:**
-- ![Wireshark](https://img.shields.io/badge/-Wireshark-green?style=flat-square&logo=Wireshark&logoColor=white)
-- ![SolarWinds](https://img.shields.io/badge/-SolarWinds-167C80?style=flat-square&logo=SolarWinds&logoColor=white)
-- ![PRTG](https://img.shields.io/badge/-PRTG-344D91?style=flat-square&logo=PRTG&logoColor=white)
+<h2>Programming Languages:</h2>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"></a>
+<a href="https://www.iso.org/c.html" target="_blank"><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C"></a>
+<a href="http://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++"></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash"></a>
 
-**Version Control:**
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+<h2>Network Analysis and Monitoring:</h2>
+<a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-green?style=flat-square&logo=Wireshark&logoColor=white" alt="Wireshark"></a>
+<a href="https://www.solarwinds.com/" target="_blank"><img src="https://img.shields.io/badge/-SolarWinds-167C80?style=flat-square&logo=SolarWinds&logoColor=white" alt="SolarWinds"></a>
+<a href="https://www.paessler.com/prtg" target="_blank"><img src="https://img.shields.io/badge/-PRTG-344D91?style=flat-square&logo=PRTG&logoColor=white" alt="PRTG"></a>
 
-**Containerization and Orchestration:**
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+<h2>Version Control:</h2>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git"></a>
 
-**API Development and Testing:**
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+<h2>Containerization and Orchestration:</h2>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" alt="Kubernetes"></a>
 
-**Virtualization:**
-- ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=VMware&logoColor=white)
-- ![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=flat-square&logo=Hyper-V&logoColor=white)
+<h2>API Development and Testing:</h2>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman"></a>
 
-**Text Editors:**
-- ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+<h2>Virtualization:</h2>
+<a href="https://www.vmware.com/" target="_blank"><img src="https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=VMware&logoColor=white" alt="VMware"></a>
+<a href="https://www.microsoft.com/en-us/cloud-platform/server-virtualization" target="_blank"><img src="https://img.shields.io/badge/-Hyper--V-0078D4?style=flat-square&logo=Hyper-V&logoColor=white" alt="Hyper-V"></a>
 
-**Operating Systems:**
-- ![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white)
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
-- ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=Windows&logoColor=white)
----
+<h2>Text Editors:</h2>
+<a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white" alt="Vim"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code"></a>
+
+<h2>Operating Systems:</h2>
+<a href="https://www.unix.org/" target="_blank"><img src="https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white" alt="Unix"></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux"></a>
+<a href="https://www.microsoft.com/en-us/cloud-platform/windows-server" target="_blank"><img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows Server"></a>
+
+</body>
+</html>
+
 [![Codewars Badge](https://www.codewars.com/users/abbastoof/badges/small)](https://www.codewars.com/users/abbastoof)
 ---
 [![LeetCode user abbastoof](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fabbastoof&logo=leetcode&logoColor=yellow)](https://leetcode.com/abbastoof/)
