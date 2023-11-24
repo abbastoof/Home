@@ -12,7 +12,6 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Programming and IT Tools</title>
 </head>
 <body>
 
