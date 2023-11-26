@@ -16,7 +16,5 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 ---
 [![LeetCode user abbastoof](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fabbastoof&logo=leetcode&logoColor=yellow)](https://leetcode.com/abbastoof/)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbastoof)](https://github.com/anuraghazra/github-readme-stats)
----
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abbastoof/) or drop me an email at [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:abbas.toof@gmail.com).
 
