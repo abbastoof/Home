@@ -21,6 +21,6 @@ My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Eng
 ---
 [![Codewars Badge](https://www.codewars.com/users/abbastoof/badges/small)](https://www.codewars.com/users/abbastoof)
 ---
-[![LeetCode user abbastoof](https://leetcard.jacoblin.cool/abbastoof?ext=heatmap)](https://leetcode.com/abbastoof/)
+[![LeetCode user abbastoof](https://leetcode-badge.chyroc.cn/?name=abbastoof&style=flat-square)](https://leetcode.com/abbastoof/)
 ---
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abbastoof/) or drop me an email at [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:abbas.toof@gmail.com).
