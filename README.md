@@ -2,7 +2,7 @@
 
 My name is Abbas Toof, but please call me **Pooria**. I'm a seasoned Network Engineer with over 7 years of hands-on experience. Currently, I'm diving deep into the world of coding at [Hive Helsinki](https://www.hive.fi/), a proud branch of the renowned [42 coding school](https://www.42.fr/).
 ---
-Nationality: <img src="https://gist.github.com/abbastoof/fad4c3b7f702fd52c96bb0d75c82fc9f/raw/your-svg-file-name.svg" alt="Iranian" width="20px"/> Iranian | 🏠 Residency: Permanent Resident of Finland
+Nationality: <img src="https://gist.github.com/abbastoof/fad4c3b7f702fd52c96bb0d75c82fc9f/raw/your-svg-file-name.svg" alt="Iranian" width="20px"/> | 🏠 Residency: Permanent Resident of Finland
 ---
 ## 🌐 Networking Background
 - Worked as a **Network Engineer for 7+ years**.
