@@ -1,6 +1,5 @@
 # Hello there! 👋
 ---
-
 My name is Abbas Toof, but please call me **Pooria**. I am a software developer interested in Machine Learning and embedded systems. With over 7 years of experience as a Network Engineer, I have a strong background in networking.
 
 I am skilled in C, C++, Python, Django, and FastAPI, and have experience working with Unix-like systems and Docker. While studying at [Hive Helsinki](https://www.hive.fi/), part of the well-known [42 coding school](https://www.42.fr/), I worked on many projects that improved my technical and teamwork skills. These experiences have helped me grow as a developer, making me better at solving problems and creating solutions.
