@@ -1,12 +1,13 @@
 # Hello there! 👋
 ---
 
-My name is Abbas Toof, but please call me **Pooria**. I am a software developer with a deep interest in Machine Learning, Artificial Intelligence, and embedded systems. With over 7 years of experience as a Network Engineer, I bring a robust understanding of networking to my software development skills.
+My name is Abbas Toof, but please call me **Pooria**. I am a software developer with a deep interest in Machine Learning and embedded systems. With over 7 years of experience as a Network Engineer, I bring a robust understanding of networking to my software development skills.
 
 I am proficient in C, C++, Python, Django, and FastAPI, and have experience managing Unix-like systems and Docker. At [Hive Helsinki](https://www.hive.fi/), a proud branch of the renowned [42 coding school](https://www.42.fr/), I worked on various projects such as a [UNIX shell clone (minishell)](https://github.com/abbastoof/minishell) and an [IRC server (FT_IRC)](https://github.com/abbastoof/ft_irc), which enhanced my technical and teamwork skills.
 
-I have also completed several other projects at Hive Helsinki, including [Cube3d](https://github.com/abbastoof/cub3d), [Philosophers](https://github.com/abbastoof/Philosophers), [FDF](https://github.com/abbastoof/FDF), [Pipex](https://github.com/abbastoof/Pipex), [Push Swap](https://github.com/abbastoof/Push_Swap), and [PmergeMe (Ford-Johnson algorithm)](https://github.com/abbastoof/PmergeMe). These projects, along with many other exciting and challenging endeavors at Hive Helsinki, have significantly contributed to my growth as a developer.
+I have also completed several other projects at Hive Helsinki, including [Cube3d](https://github.com/abbastoof/cub3d), [Philosophers](https://github.com/abbastoof/Philosophers), [FDF](https://github.com/abbastoof/FDF), [Pipex](https://github.com/abbastoof/Pipex), [Push Swap](https://github.com/abbastoof/Push_Swap), and [PmergeMe (Ford-Johnson algorithm)](https://github.com/abbastoof/CPP_MODULE/tree/main/C%2B%2B/C%2B%2BModule09/ex02). These projects, along with many other exciting and challenging endeavors at Hive Helsinki, have significantly contributed to my growth as a developer.
 
+---
 ------
 Nationality: <img src="https://gist.githubusercontent.com/abbastoof/fad4c3b7f702fd52c96bb0d75c82fc9f/raw/bffdd94b0a5c0c7992f7f055f64e7c5163c2f7c1/Flag_of_Iran.svg" alt="Iranian" width="20px"/> Iranian | 🏠 Residency: Permanent Resident of Finland
 ---
