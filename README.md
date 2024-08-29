@@ -1,10 +1,9 @@
 # Hello there! 👋
-My name is Abbas Toof, but please call me **Pooria**. I am a software developer interested in Machine Learning and embedded systems. With over 7 years of experience as a Network Engineer, I have a strong background in networking.
+I'm Pooria, a software developer with a focus on Machine Learning and embedded systems. I have over 7 years of experience as a Network Engineer, providing a strong foundation in networking.
 
-I am skilled in C, C++, Python, Django, and FastAPI, and have experience working with Unix-like systems and Docker. While studying at [Hive Helsinki](https://www.hive.fi/), part of the well-known [42 coding school](https://www.42.fr/), I worked on many projects that improved my technical and teamwork skills. These experiences have helped me grow as a developer, making me better at solving problems and creating solutions.
+Skilled in C, C++, Python, Django, and FastAPI, I also have experience with Unix-like systems and Docker. During my time at Hive Helsinki, I worked on various projects that enhanced my technical and teamwork abilities, improving my problem-solving skills.
 
-I am confident that I can add value to your projects and am excited to work on new and innovative technology. I enjoy working in teams, especially those spread across different parts of the world, and look forward to bringing my skills to new challenges.
-
+I'm excited to contribute to innovative projects and enjoy collaborating with global teams.
 ---
 Nationality: <img src="https://gist.githubusercontent.com/abbastoof/fad4c3b7f702fd52c96bb0d75c82fc9f/raw/bffdd94b0a5c0c7992f7f055f64e7c5163c2f7c1/Flag_of_Iran.svg" alt="Iranian" width="20px"/> Iranian | 🏠 Residency: Permanent Resident of Finland
 ---
