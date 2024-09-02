@@ -4,6 +4,7 @@ I'm Pooria, a software developer with a focus on Machine Learning and embedded s
 Skilled in C, C++, Python, Django, and FastAPI, I also have experience with Unix-like systems and Docker. During my time at Hive Helsinki, I worked on various projects that enhanced my technical and teamwork abilities, improving my problem-solving skills.
 
 I'm excited to contribute to innovative projects and enjoy collaborating with global teams.
+
 ---
 Nationality: <img src="https://gist.githubusercontent.com/abbastoof/fad4c3b7f702fd52c96bb0d75c82fc9f/raw/bffdd94b0a5c0c7992f7f055f64e7c5163c2f7c1/Flag_of_Iran.svg" alt="Iranian" width="20px"/> Iranian | 🏠 Residency: Permanent Resident of Finland
 ---
