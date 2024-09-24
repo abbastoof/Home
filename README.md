@@ -5,7 +5,7 @@ I'm Pooria, a passionate software developer with over **7 years of experience** 
 
 ## 🚀 My Proudest Projects:
 - 🔥 **[Transcendence](https://github.com/abbastoof/transcendence)** – A multiplayer game project where I implemented **microservices architecture** with **Django REST Framework** and integrated real-time communication using **WebSockets**.
-- 🔥 **[Delivery Fee Calculator](https://github.com/abbastoof/Delivery_Fee_Calculator)** – Developed using **FastAPI**, dynamically calculating delivery fees based on multiple parameters.
+- 🔥 **[Delivery Fee Calculator](https://github.com/abbastoof/Delivery-Fee-Calculator)** – Developed using **FastAPI**, dynamically calculating delivery fees based on multiple parameters.
 - 🔥 **[FT_IRC](https://github.com/abbastoof/FT_IRC)** – An IRC server built in **C++**, focusing on network communication protocols and handling real-time data.
 - 🔥 **[Cub3D](https://github.com/abbastoof/Cub3D)** – A 3D game engine project built in **C**, using **MiniLibX**, involving rendering of a maze using raycasting.
 - 🔥 **[PhoenixShell](https://github.com/abbastoof/PhoenixShell)** – A custom shell developed in **C** with support for process management, pipes, redirection, and built-in commands, designed to mimic the functionality of a real Linux shell while enhancing error handling and user experience.
@@ -31,6 +31,13 @@ I'm Pooria, a passionate software developer with over **7 years of experience** 
 
 ---
 
+## 🎓 Certifications:
+- [**CCNA (Cisco Certified Network Associate)**](https://www.credly.com/badges/18f3d14f-acb1-4f94-9e8a-a65e4fa2af17?source=linked_in_profile)
+- [**Coursera: Meta Django Web Framework**](https://coursera.org/share/ebee68428ff9eb1361a92a068367eb0d)
+- [**Coursera: Meta Databases for Back-End**](https://coursera.org/share/002d91d1775e83adf46378cf1504b3d4)
+
+---
+
 ## 📈 Continuous Learning:
 I believe in the importance of continuous learning, and I’m constantly enhancing my skills. Whether it's working on **real-time applications**, or exploring **microservices architectures**, I enjoy tackling new challenges and learning from them.
 
@@ -42,4 +49,4 @@ I’m excited to contribute my skills to projects that push boundaries and solve
 ---
 
 ## 💬 Let's Connect:
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abbastoof) or drop me an email at [abbas.toof@gmail.com](mailto:pooria.toof@gmail.com). I’m always open to discussing tech, projects, and new opportunities.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abbastoof) or drop me an email at [abbas.toof@gmail.com](mailto:abbas.toof@gmail.com). I’m always open to discussing tech, projects, and new opportunities.
