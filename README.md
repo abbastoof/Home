@@ -1,30 +1,45 @@
-# Hello there! 👋
-I'm Pooria, a software developer with a focus on Machine Learning and embedded systems. I have over 7 years of experience as a Network Engineer, providing a strong foundation in networking.
-
-Skilled in C, C++, Python, Django, and FastAPI, I also have experience with Unix-like systems and Docker. During my time at Hive Helsinki, I worked on various projects that enhanced my technical and teamwork abilities, improving my problem-solving skills.
-
-I'm excited to contribute to innovative projects and enjoy collaborating with global teams.
+# Hello there! 👋  
+I'm Pooria, a passionate software developer with over **7 years of experience** as a **Network Engineer**. After completing my core studies at **Hive Helsinki**, part of the **42 school network**, I transitioned into software development, where I’ve built a solid foundation in **C, C++, Python, Django, FastAPI**, and **microservices architecture**.
 
 ---
-Nationality: <img src="https://gist.githubusercontent.com/abbastoof/fad4c3b7f702fd52c96bb0d75c82fc9f/raw/bffdd94b0a5c0c7992f7f055f64e7c5163c2f7c1/Flag_of_Iran.svg" alt="Iranian" width="20px"/> Iranian | 🏠 Residency: Permanent Resident of Finland
----
-## 🌐 Networking Background
-- Worked as a **Network Engineer for 7+ years**.
-- Possess a [![CCNA](https://img.shields.io/badge/-CCNA-5896AB?style=flat-square&logo=Cisco&logoColor=white)](https://www.credly.com/badges/18f3d14f-acb1-4f94-9e8a-a65e4fa2af17?source=linked_in_profile) **CCNA Certificate**.
 
-## 🎓 Education
-- **Hive Helsinki**: Engaged in a challenging software engineering curriculum rooted in hands-on experience.
-
-## 💡 Skills & Expertise
-| **Programming Languages**        | **Network Analysis and Monitoring**     | **Version Control**          | **Containerization and Orchestration**    | **API Development and Testing**     | **Virtualization**          | **Text Editors**        | **Operating Systems**          |
-| ---------------------------------|----------------------------------------|-------------------------------|-------------------------------------------|-------------------------------------|-----------------------------|---------------------------|----------------------------------|
-| [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/) [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)](https://www.iso.org/standard/82075.html) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)](https://isocpp.org/) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/) | [![Wireshark](https://img.shields.io/badge/-Wireshark-green?style=flat-square&logo=Wireshark&logoColor=white)](https://www.wireshark.org/) [![SolarWinds](https://img.shields.io/badge/-SolarWinds-167C80?style=flat-square&logo=SolarWinds&logoColor=white)](https://www.solarwinds.com/) [![PRTG](https://img.shields.io/badge/-PRTG-344D91?style=flat-square&logo=PRTG&logoColor=white)](https://www.paessler.com/prtg) | [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/) | [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/) | [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/) [![Insomnia](https://img.shields.io/badge/-Insomnia-5A29E4?style=flat-square&logo=Insomnia&logoColor=white)](https://insomnia.rest/) | [![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=VMware&logoColor=white)](https://www.vmware.com/) [![Hyper-V](https://img.shields.io/badge/-Hyper--V-0078D4?style=flat-square&logo=Hyper-V&logoColor=white)](https://www.microsoft.com/en-us/cloud-platform/server-virtualization) | [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim&logoColor=white)](https://www.vim.org/) [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/) | [![Unix](https://img.shields.io/badge/-Unix-black?style=flat-square&logo=Unix&logoColor=white)](https://www.unix.org/) [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)](https://www.linux.org/) [![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=Windows&logoColor=white)](https://www.microsoft.com/en-us/cloud-platform/windows-server) |
+## 🚀 My Proudest Projects:
+- 🔥 **[Transcendence](https://github.com/abbastoof/transcendence)** – A multiplayer game project where I implemented **microservices architecture** with **Django REST Framework** and integrated real-time communication using **WebSockets**.
+- 🔥 **[Delivery Fee Calculator](https://github.com/abbastoof/Delivery_Fee_Calculator)** – Developed using **FastAPI**, dynamically calculating delivery fees based on multiple parameters.
+- 🔥 **[FT_IRC](https://github.com/abbastoof/FT_IRC)** – An IRC server built in **C++**, focusing on network communication protocols and handling real-time data.
+- 🔥 **[Cub3D](https://github.com/abbastoof/Cub3D)** – A 3D game engine project built in **C**, using **MiniLibX**, involving rendering of a maze using raycasting.
+- 🔥 **[PhoenixShell](https://github.com/abbastoof/PhoenixShell)** – A custom shell developed in **C** with support for process management, pipes, redirection, and built-in commands, designed to mimic the functionality of a real Linux shell while enhancing error handling and user experience.
+- 🔥 **[LittleLemon_Website](https://github.com/abbastoof/LittleLemon_Website)** – A dynamic web application built using **Django**, focused on managing restaurant orders, table reservations, and customer feedback.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abbastoof&layout=compact)
+
+## 🌐 Networking Background:
+- I worked as a **Network Engineer for 7+ years**, giving me a deep understanding of networks and system architecture.
+- Earned my [**CCNA Certificate**](https://www.credly.com/badges/18f3d14f-acb1-4f94-9e8a-a65e4fa2af17?source=linked_in_profile), validating my expertise in network infrastructure.
+
 ---
-[![Codewars Badge](https://www.codewars.com/users/abbastoof/badges/small)](https://www.codewars.com/users/abbastoof)
+
+## 🎓 Education:
+- **Hive Helsinki** – Engaged in a challenging, hands-on software engineering curriculum that improved my problem-solving abilities and teamwork skills.
+
 ---
-[![LeetCode user abbastoof](https://leetcard.jacoblin.cool/abbastoof?ext=heatmap)](https://leetcode.com/abbastoof/)
+
+## 🛠 Skills & Expertise:
+| **Programming Languages** | **Web Development** | **Frontend Technologies** | **Databases** | **Cloud & Containers** | **Version Control** | **Testing** |
+| --------------------------| ------------------- | ------------------------- | ------------- | ---------------------- | ------------------- | ---------- |
+| Python, C, C++, Bash | Django, FastAPI, REST APIs | JavaScript, React | MySQL, PostgreSQL, MongoDB | AWS, Docker, Kubernetes | Git | Pytest, CI/CD with Jenkins, Docker |
+
 ---
-Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abbastoof/) or drop me an email at [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:abbas.toof@gmail.com).
+
+## 📈 Continuous Learning:
+I believe in the importance of continuous learning, and I’m constantly enhancing my skills. Whether it's working on **real-time applications**, or exploring **microservices architectures**, I enjoy tackling new challenges and learning from them.
+
+---
+
+## 🎯 What’s Next?
+I’m excited to contribute my skills to projects that push boundaries and solve real-world problems. I’m always eager to connect with like-minded individuals, collaborate on innovative projects, and continue growing as a software developer.
+
+---
+
+## 💬 Let's Connect:
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abbastoof) or drop me an email at [abbas.toof@gmail.com](mailto:pooria.toof@gmail.com). I’m always open to discussing tech, projects, and new opportunities.
