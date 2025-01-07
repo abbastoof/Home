@@ -1,4 +1,4 @@
-# Hello there!<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
+# Hello there!<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="30" height="30">
 
 I'm **Pooria**, a **recent graduate** in software development from **Hive Helsinki**, part of the **42 school network**. With over **7 years of experience** as a **Network Engineer** and holding a **Cisco Certified Network Associate (CCNA)** certification, I’ve transitioned into software development, building expertise in **C**, **C++**, **Python**, **Kotlin**, **Django**, **FastAPI**, **Spring Boot**, and **microservices architecture**. I am particularly interested in **back-end development** and crafting **scalable, reliable systems**.
 
