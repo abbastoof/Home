@@ -1,4 +1,5 @@
-# Hello there! ![Waving Hand](https://example.com/waving-hand.gif)
+# Hello there! ![Waving Hand]![wave](https://github.com/user-attachments/assets/27894f23-c667-421d-b5fc-05d2cd6f92c3)
+
 I'm **Pooria**, a **recent graduate** in software development from **Hive Helsinki**, part of the **42 school network**. With over **7 years of experience** as a **Network Engineer** and holding a **Cisco Certified Network Associate (CCNA)** certification, I’ve transitioned into software development, building expertise in **C**, **C++**, **Python**, **Kotlin**, **Django**, **FastAPI**, **Spring Boot**, and **microservices architecture**. I am particularly interested in **back-end development** and crafting **scalable, reliable systems**.
 
 ---
