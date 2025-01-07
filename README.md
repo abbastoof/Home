@@ -1,5 +1,5 @@
 # Hello there! 👋  
-I'm Pooria, a passionate software developer with over **7 years of experience** as a **Network Engineer**. After completing my core studies at **Hive Helsinki**, part of the **42 school network**, I transitioned into software development, where I’ve built a solid foundation in **C, C++, Python, Kotlin, Django, FastAPI**, **Spring Boot** and **microservices architecture**.
+I'm **Pooria**, a **recent graduate** in software development from **Hive Helsinki**, part of the **42 school network**. With over **7 years of experience** as a **Network Engineer** and holding a **Cisco Certified Network Associate (CCNA)** certification, I’ve transitioned into software development, building expertise in **C**, **C++**, **Python**, **Kotlin**, **Django**, **FastAPI**, **Spring Boot**, and **microservices architecture**. I am particularly interested in **back-end development** and crafting **scalable, reliable systems**.
 
 ---
 ## 🔄 My Latest Project:
