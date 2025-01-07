@@ -20,7 +20,7 @@ I'm **Pooria**, a **recent graduate** in software development from **Hive Helsin
 ## 🛠 Skills & Expertise:
 | **Programming Languages** | **Web Development** | **Frontend Technologies** | **Databases** | **Cloud & Containers** | **Version Control** | **Testing** |
 | --------------------------| ------------------- | ------------------------- | ------------- | ---------------------- | ------------------- | ---------- |
-| Python, C, C++, Kotlin | Django, FastAPI, REST APIs | JavaScript, React | MySQL, PostgreSQL, MongoDB | AWS, Docker, Kubernetes | Git | Pytest, CI/CD with Jenkins |
+| Python, C, C++, Kotlin | Django, FastAPI, Spring Boot, REST APIs | JavaScript, React | MySQL, MariaDB, PostgreSQL, MongoDB | AWS, Docker, Kubernetes | Git | Pytest, CI/CD with Jenkins |
 
 ---
 
