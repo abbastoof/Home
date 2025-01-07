@@ -11,6 +11,7 @@ I'm **Pooria**, a **recent graduate** in software development from **Hive Helsin
 
 ## 🚀 My Proudest Projects:
 - **[Transcendence](https://github.com/abbastoof/transcendence)** – A multiplayer game project with **microservices architecture**, **Django REST Framework**, and **WebSockets** for real-time communication.
+- **[Delivery Fee Calculator](https://github.com/abbastoof/Delivery_Fee_Calculator)** – Developed using **FastAPI**, dynamically calculating delivery fees based on multiple parameters.
 - **[FT_IRC](https://github.com/abbastoof/FT_IRC)** – An IRC server in **C++**, focusing on network communication protocols and real-time data handling.
 - **[PhoenixShell](https://github.com/abbastoof/PhoenixShell)** – A custom Linux shell in **C** with features like process management, pipes, and redirection.
 - **[LittleLemon_Website](https://github.com/abbastoof/LittleLemon_Website)** – A **Django** web application managing restaurant orders, table reservations, and customer feedback.
