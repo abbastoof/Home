@@ -2,6 +2,9 @@
 I'm Pooria, a passionate software developer with over **7 years of experience** as a **Network Engineer**. After completing my core studies at **Hive Helsinki**, part of the **42 school network**, I transitioned into software development, where I’ve built a solid foundation in **C, C++, Python, Kotlin, Django, FastAPI**, **Spring Boot** and **microservices architecture**.
 
 ---
+## 🔄 My Latest Project:
+- 🔥 **[Delivery Fee Calculator in Kotlin](https://github.com/abbastoof/Delivery_Fee_Calculator_Kotlin)** – A backend service built with **Spring Boot** and **Kotlin**, implementing a dynamic REST API to calculate delivery fees based on cart value, delivery distance, item count, and time, including features like rush hour multipliers and fee caps.
+---
 
 ## 🚀 My Proudest Projects:
 - 🔥 **[Transcendence](https://github.com/abbastoof/transcendence)** – A multiplayer game project where I implemented **microservices architecture** with **Django REST Framework** and integrated real-time communication using **WebSockets**.
